@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: gddfggdf-staging
+  labels:
+    environment-id: env_713cf289-7a62-4d29-b823-ec150950e357
+    project-id: project_856b3226-181f-4914-be0f-2216f6bdbfd4
+    project-name: gddfggdf
+    environment-name: staging
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627

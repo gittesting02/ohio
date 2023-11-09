@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: gddfggdf-prod
+  labels:
+    environment-id: env_24ffad3d-3646-4c06-806c-1ea02a5be81f
+    project-id: project_856b3226-181f-4914-be0f-2216f6bdbfd4
+    project-name: gddfggdf
+    environment-name: prod
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
