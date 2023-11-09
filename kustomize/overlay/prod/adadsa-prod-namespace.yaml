@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: adadsa-prod
+  labels:
+    environment-id: env_1e6880f4-ceb1-4dce-b511-f4500c4ae0e1
+    project-id: project_e3219160-290a-4ae4-bad0-cb5605d75e98
+    project-name: adadsa
+    environment-name: prod
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627

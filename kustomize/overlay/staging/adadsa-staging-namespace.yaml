@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: adadsa-staging
+  labels:
+    environment-id: env_a7b54afd-705a-4628-9883-1fa735f26cb6
+    project-id: project_e3219160-290a-4ae4-bad0-cb5605d75e98
+    project-name: adadsa
+    environment-name: staging
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
