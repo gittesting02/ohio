@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mkgfkhg-dev
+  labels:
+    environment-id: env_b450c356-6840-4672-a53b-b1074edf419e
+    project-id: project_f502bad7-cd3a-4f3a-8f29-e5cf2910fe07
+    project-name: mkgfkhg
+    environment-name: dev
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
